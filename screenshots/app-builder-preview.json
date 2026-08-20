@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Monni — 5,000 on-chain Monni | $uMONNI",
+      "hasCanvas": false,
+      "bodyTextLen": 2338,
+      "bodyTextHash": "b767fc592acfe0cab4ec51f7395b11ad91b610a38715b99e53f0b5cf640ca9f2",
+      "bodyTextPrefix": "MONNI Collection Gallery How it works X Sign in A 5K GENERATIVE ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Monni — 5,000 on-chain Monni | $uMONNI",
+      "hasCanvas": false,
+      "bodyTextLen": 2325,
+      "bodyTextHash": "3a5141d4a4b7a7ce3952dcc421b446ace5448d145d16ffe9ddb57f861a1a189e",
+      "bodyTextPrefix": "MONNI Collection Gallery X Sign in A 5K GENERATIVE COLLECTION 5,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
